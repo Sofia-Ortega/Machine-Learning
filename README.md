@@ -1,7 +1,8 @@
 # Machine Learning Journey
 
-## Gradient Descent
-- Data points
-- Linear Regression Equation
-- Cost Function
-- Gradient Descent
+## Regression with Multiple Input Variables
+- Gradient Descent for Linear Regression 
+- Gradient Descent for Multiple Linear Regression
+
+## Classification
+- Gradient Descent for Logistic Regression
