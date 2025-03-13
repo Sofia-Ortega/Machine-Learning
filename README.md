@@ -1,8 +1,10 @@
 # Machine Learning Journey
 
-## Regression with Multiple Input Variables
-- Gradient Descent for Linear Regression 
-- Gradient Descent for Multiple Linear Regression
+# Linear and Logistic Regression
+- Single Feature Custom Gradient Descent Linear Regression Algorithm 
+- Custom Logistic Regression
+- Custom Multiple-Feature Linear Regression
 
-## Classification
-- Gradient Descent for Logistic Regression
+# Neural Networks
+- Training single neuron for Linear Regression
+- 🚧 In progress: (see [./neural_networks](./neural_networks/))🚧  
